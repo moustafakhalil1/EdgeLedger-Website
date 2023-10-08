@@ -1,2 +1,2 @@
 # EdgeLedger-Website
-Responsive EdgeLedger WebSite (HTL ,CSS , JavaScript , Jquery)
+Responsive EdgeLedger WebSite (HTML ,CSS , JavaScript , Jquery)
